@@ -4,8 +4,6 @@
 
 > A sleek and responsive pizza ordering application built using **React**, **Vite**, and **Tailwind CSS**. Developed as part of the Jonas Schmedtmann Fast React course, this app simulates a real-world pizza shop experience—from selecting items to placing orders.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID_HERE/deploy-status)](https://pizza-blitz-by-tilak.netlify.app/order/E2VAF6)
-
 ---
 
 ## 📸 Screenshots
@@ -91,7 +89,7 @@ npm run build
 
 ## 🔗 Live Demo
 
-- 🌍 **Live App:** [PizzaBlitz-Co on Netlify](https://pizza-blitz-by-tilak.netlify.app/order/E2VAF6)
+- 🌍 **Live App:** [PizzaBlitz-Co on Netlify](https://pizza-blitz-by-tilak.netlify.app)
 
 ---
 
