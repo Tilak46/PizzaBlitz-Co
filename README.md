@@ -8,6 +8,8 @@
 
 ## 📸 Screenshots
 
+<!-- prettier-ignore-start  -->
+
 | Homepage                                          | Menu Page                                     |
 | ------------------------------------------------- | --------------------------------------------- |
 | ![Home](./public/assets/screenshots/homepage.png) | ![Menu](./public/assets/screenshots/menu.png) |
@@ -20,7 +22,7 @@
 | -------------------------------------------------- | ------------------------------------------------------------- |
 | ![Cart](./public/assets/screenshots/orderlist.png) | ![Order](./public/assets/screenshots/orderbeforepriority.png) |
 
----
+## <!-- prettier-ignore-end -->
 
 ## 🚀 Features
 
