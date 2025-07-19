@@ -8,13 +8,13 @@
 
 ## 📸 Screenshots
 
-| Homepage                                              | Menu Page                                     |
-| ----------------------------------------------------- | --------------------------------------------- |
-| ![Homepage](./public/assets/screenshots/homepage.png) | ![Menu](./public/assets/screenshots/menu.png) |
+| Homepage                                           | Menu Page                                                    |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| ![Home](./public/assets/screenshots/orderlist.png) | ![Menu](./public/assets/screenshots/orderbeforepriority.png) |
 
-| Cart Page                                     | Order Confirmation                                  |
-| --------------------------------------------- | --------------------------------------------------- |
-| ![Cart](./public/assets/screenshots/cart.png) | ![Order](./public/assets/screenshots/orderpage.png) |
+| Cart Page                                          | Order Confirmation                                            |
+| -------------------------------------------------- | ------------------------------------------------------------- |
+| ![Cart](./public/assets/screenshots/orderlist.png) | ![Order](./public/assets/screenshots/orderbeforepriority.png) |
 
 | Order Details                                      | Order Details With Make Priority Option                       |
 | -------------------------------------------------- | ------------------------------------------------------------- |
